@@ -1,2 +1,8 @@
 bin/
 obj/
+.vs/
+**/.vs/
+bin/
+obj/
+**/bin/
+**/obj/
