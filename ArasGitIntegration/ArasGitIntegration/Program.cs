@@ -10,3 +10,7 @@ static void Logout()
 {
     Console.WriteLine("Added Logout Method");
 }
+static void Add()
+{
+    Console.WriteLine("Created Add Method");
+}
