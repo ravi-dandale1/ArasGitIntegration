@@ -14,3 +14,8 @@ static void Add()
 {
     Console.WriteLine("Created Add Method");
 }
+
+static void Edit()
+{
+    Console.WriteLine("Created Edit Method");
+})
